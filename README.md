@@ -3,11 +3,21 @@
 Majeed Dourandeesh. I am a fullstack developer. I started my developing with frontend and then I got interested in backend environment, especially NodeJS  and NoSQL databases. I have developed enterprise web applications and now I'm deeply focusing on learning new frontend and backend technologies.
 
 
+- 🔭 I’m currently working on ...
+    
+        New software designing with DotNET core web application
+    
 - 🌱 I’m currently learning ...
 
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+  
+-  📫 How to reach me: 
+
+    [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=flat&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/majeed-dourandeesh/)
+    [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=flat&logo=gmail&logoColor=white&color=ea4335)](mailto:majeed.dl@gmail.com) 
 <!--
 **majeeddl/majeeddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 The languages and framework for front-end developing:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -65,7 +77,6 @@ The tools for programming :
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=flat&logo=goland&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
 
@@ -77,3 +88,6 @@ Thanks from :
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=flat&logo=pluralsight&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
+
+
+
