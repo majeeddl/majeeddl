@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Majeed Dourandeesh. I am a fullstack developer. I started my developing with frontend and then I got interested in backend environment, especially NodeJS  and NoSQL databases. I have developed enterprise web applications and now I'm deeply focusing on learning new frontend and backend technologies.
+
+
+- 🌱 I’m currently learning ...
+
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 <!--
 **majeeddl/majeeddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
