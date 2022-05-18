@@ -80,7 +80,7 @@ The tools for programming :
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=majeeddl&theme=algolia" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeeddl&layout=compact&theme=algolia" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=majeeddl&theme=algolia&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeeddl&layout=compact&theme=algolia" height="150" />
 
 Thanks from : 
 
