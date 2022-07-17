@@ -5,7 +5,7 @@ Majeed Dourandeesh. I am a fullstack developer. I started my developing with fro
 
 - 🔭 I’m currently working on ...
     
-        New software designing with DotNET core web application
+        DDD and clean architecture in DotNET core and NestJs
     
 - 🌱 I’m currently learning ...
 
@@ -103,6 +103,9 @@ The tools for programming :
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=flat&logo=goland&logoColor=white)
 
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=majeeddl&show_icons=true&theme=algolia&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeeddl&show_icons=true&layout=compact&theme=algolia&count_private=true" height="150" />
 
