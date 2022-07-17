@@ -123,3 +123,4 @@ Thanks from :
 
 
 
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=majeeddl&repo=majeeddl&countColor=%237B1E7A)
