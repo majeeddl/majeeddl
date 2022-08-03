@@ -15,7 +15,7 @@ Majeed Dourandeesh. I am a fullstack developer. I started my developing with fro
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
     ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
-    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+    
   
 -  📫 How to reach me: 
 
@@ -56,6 +56,7 @@ The languages and framework for front-end developing:
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)&nbsp;
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 The backend technologies that I am passionate about  :
 
