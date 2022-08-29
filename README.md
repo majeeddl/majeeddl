@@ -94,9 +94,11 @@ The tools for programming :
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
+IDE :
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -105,11 +107,18 @@ The tools for programming :
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=flat&logo=goland&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 
+Other Software :
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+
+
+Operating systems :
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=majeeddl&show_icons=true&theme=algolia&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeeddl&show_icons=true&layout=compact&theme=algolia&count_private=true" height="150" />
 
