@@ -122,7 +122,6 @@ Operating systems :
 
 <img src="https://github-readme-stats.vercel.app/api?username=majeeddl&show_icons=true&theme=algolia&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeeddl&show_icons=true&layout=compact&theme=algolia&count_private=true" height="150" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=majeeddl)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks from : 
 
