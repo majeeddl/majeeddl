@@ -65,9 +65,11 @@ The languages and framework for front-end developing:
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="LinkedIn Badge"/>
 </td>
 <td>
+    <div>
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>
     <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="react-router"/>
+    </div>
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux"/>
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="React Query"/>
      <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e" alt="Cypress"/>
