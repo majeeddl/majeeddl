@@ -20,6 +20,7 @@ Majeed Dourandeesh. I am a fullstack developer. I started my developing with fro
 -  📫 How to reach me: 
 
     [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=flat&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/majeed-dourandeesh/)
+    [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01842d90ab3e24c5aa?viewMode=1)
     [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=flat&logo=gmail&logoColor=white&color=ea4335)](mailto:majeed.dl@gmail.com) 
 <!--
 **majeeddl/majeeddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
