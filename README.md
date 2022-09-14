@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 The languages and framework for front-end developing:
 <table style="width:100%;font-size:11px">
 <tr>
-<th align="center" width="30%" height="10px" style="font-size:9px">
+<th align="center" width="28%" height="10px" style="font-size:9px">
         Base
 </th>
-<th align="center" width="30%" height="10px" style="font-size:9px">
+<th align="center" width="28%" height="10px" style="font-size:9px">
         React JS
 </th>
 <th align="center" width="10%" height="10px" style="font-size:9px">
         Vue JS
 </th>
-<th align="center" width="20%" height="10px" style="font-size:9px">
+<th align="center" width="24%" height="10px" style="font-size:9px">
         UI Library
 </th>
 <th align="center" width="10%" height="10px" style="font-size:9px">
@@ -90,10 +90,6 @@ The languages and framework for front-end developing:
 </tr>
 </table>
 
-
-| Base   | React JS    | Vue JS        |  UI Library  | Others    |
-| ------- |:-------:| -------:|-------:|-------:
-| ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;| ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)&nbsp;![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)&nbsp;|![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)&nbsp;![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)&nbsp;![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)&nbsp; |
 
 
 
