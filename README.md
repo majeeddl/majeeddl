@@ -14,7 +14,6 @@ Majeed Dourandeesh. I am a fullstack developer. I started my developing with fro
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-    ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
     
   
 -  📫 How to reach me: 
@@ -66,12 +65,14 @@ The languages and framework for front-end developing:
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="LinkedIn Badge"/>
 </td>
 <td>
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>
+    <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="react-router"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="React Query"/>
+     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e" alt="Cypress"/>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook"/>
+    
 </td>
 <td>
     <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js" alt=""/>
