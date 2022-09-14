@@ -39,6 +39,57 @@ Here are some ideas to get you started:
 
 
 The languages and framework for front-end developing:
+<table style="width:100%;font-size:11px">
+<tr>
+<th align="center" width="30%" height="10px" style="font-size:9px">
+        Base
+</th>
+<th align="center" width="30%" height="10px" style="font-size:9px">
+        React JS
+</th>
+<th align="center" width="10%" height="10px" style="font-size:9px">
+        Vue JS
+</th>
+<th align="center" width="20%" height="10px" style="font-size:9px">
+        UI Library
+</th>
+<th align="center" width="10%" height="10px" style="font-size:9px">
+        Others
+</th>
+</tr>
+<tr>
+<td>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="LinkedIn Badge"/>
+</td>
+<td>
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="LinkedIn Badge"/>
+</td>
+<td>
+    <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js" alt=""/>
+    <img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82" alt=""/>
+</td>
+<td>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt=""/>
+</td>
+<td>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white" alt=""/>
+</td>
+</tr>
+</table>
+
 
 | Base   | React JS    | Vue JS        |  UI Library  | Others    |
 | ------- |:-------:| -------:|-------:|-------:
@@ -128,5 +179,6 @@ Thanks from :
 
 
 ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=majeeddl&repo=majeeddl&countColor=%237B1E7A)
+
 
 
