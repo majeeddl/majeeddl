@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Majeed Dourandeesh. I am a fullstack developer. I started my developing with frontend and then I got interested in backend environment, especially NodeJS  and NoSQL databases. I have developed enterprise web applications and now I'm deeply focusing on learning new frontend and backend technologies.
+Majeed Dourandeesh. I am a senior software engineer. I started my developing with frontend and then I got interested in backend environment, especially NodeJS  and NoSQL databases. I have developed enterprise web applications and now I'm deeply focusing on learning new frontend and backend technologies.
 
 
 - 🔭 I’m currently working on ...
