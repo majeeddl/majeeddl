@@ -85,7 +85,9 @@ The languages and framework for front-end developing:
 <td>
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=flat&logo=semanticuireact&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt=""/>
+   
 </td>
 <td>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt=""/>
