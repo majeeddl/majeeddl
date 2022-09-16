@@ -140,6 +140,8 @@ The backend technologies that I am passionate about  :
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt=""/>
     <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat&logo=Apollo%20GraphQL&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/traefikproxy-%24A1C1.svg?style=flat&logo=traefikproxy&color=24A1C1&logoColor=white" alt=""/>
+    
 </td>
 
 </tr>
