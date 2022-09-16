@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 The languages and framework for front-end developing:
 <table style="width:100%;font-size:11px">
 <tr>
-<th align="center" width="28%" height="10px" style="font-size:9px">
+<th align="center" width="24%" height="10px" style="font-size:9px">
         Base
 </th>
-<th align="center" width="28%" height="10px" style="font-size:9px">
+<th align="center" width="30%" height="10px" style="font-size:9px">
         React JS
 </th>
 <th align="center" width="10%" height="10px" style="font-size:9px">
