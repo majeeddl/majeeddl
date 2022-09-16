@@ -59,10 +59,13 @@ The languages and framework for front-end developing:
 <tr>
 <td>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="LinkedIn Badge"/>
+    <div>
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript" alt="LinkedIn Badge"/>
+    </div>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white" alt="LinkedIn Badge"/>
 </td>
 <td>
     <div>
@@ -131,6 +134,7 @@ The backend technologies that I am passionate about  :
 <td>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt=""/>
 </td>
@@ -163,7 +167,6 @@ The tools for programming :
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
