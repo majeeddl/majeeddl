@@ -137,11 +137,10 @@ The backend technologies that I am passionate about  :
 <td>
     <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" alt=""/>
-    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt=""/>
     <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat&logo=Apollo%20GraphQL&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/traefikproxy-%24A1C1.svg?style=flat&logo=traefikproxy&color=24A1C1&logoColor=white" alt=""/>
-    
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt=""/>
 </td>
 
 </tr>
@@ -159,6 +158,7 @@ The databases :
 The tools for programming :
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
