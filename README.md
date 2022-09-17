@@ -5,15 +5,15 @@ Majeed Dourandeesh. I am a senior software engineer. I started my developing wit
 
 - 🔭 I’m currently working on ...
     
-        DDD and clean architecture in DotNET core and NestJs
+        DDD and clean architecture in DotNET core and working on Golange
     
 - 🌱 I’m currently learning ...
 
-
-    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+    
+    
     
   
 -  📫 How to reach me: 
