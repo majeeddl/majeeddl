@@ -188,7 +188,7 @@ IDE :
 Other Software :
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
 
 Operating systems :
 
