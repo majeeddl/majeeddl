@@ -6,12 +6,15 @@ Majeed Dourandeesh. I am a senior software engineer. I started my developing wit
 - 🔭 I’m currently working on ...
     
         DDD and clean architecture in DotNET core and working on Golange
+        
+        Client React Application for Profen
     
 - 🌱 I’m currently learning ...
 
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
     
     
     
