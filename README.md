@@ -7,7 +7,7 @@ Majeed Dourandeesh. I am a senior software engineer. I started my developing wit
     
         DDD and clean architecture in DotNET core and working on Golange
         
-        Client React Application for Profen
+        Client React Application for monitoing system
     
 - 🌱 I’m currently learning ...
 
