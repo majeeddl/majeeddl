@@ -217,8 +217,5 @@ Thanks from :
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 
 
-
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=majeeddl&repo=majeeddl&countColor=%237B1E7A)
-
-
+![](https://komarev.com/ghpvc/?username=majeeddl)
 
