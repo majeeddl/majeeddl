@@ -83,6 +83,7 @@ The languages and framework for front-end developing:
          <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e" alt="Cypress"/>
         <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook"/>
     </div>
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components"/>
     
 </td>
 <td>
