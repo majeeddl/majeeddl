@@ -217,6 +217,5 @@ Thanks from :
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 
-
 ![](https://komarev.com/ghpvc/?username=majeeddl)
 
