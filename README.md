@@ -202,7 +202,7 @@ Operating systems :
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=majeeddl&show_icons=true&theme=algolia" height="149" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeeddl&show_icons=true&layout=compact&theme=algolia" height="149" />
+
 
 
 Thanks from : 
