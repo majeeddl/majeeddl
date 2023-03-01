@@ -204,7 +204,6 @@ Operating systems :
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=majeeddl&show_icons=true&theme=algolia" height="149" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=majeeddl&show_icons=true&layout=compact&theme=algolia" height="149" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majeeddl&theme=github)
 
 Thanks from : 
 
