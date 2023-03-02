@@ -79,10 +79,9 @@ The languages and framework for front-end developing:
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux"/>
     <img src="https://img.shields.io/badge/react%20zustand-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="zustand"/>
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="React Query"/>
-    <div>
-         <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e" alt="Cypress"/>
-        <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook"/>
-    </div>
+    <img src="https://img.shields.io/badge/React%20Table-FF4154.svg?style=flat&logo=React-Table&logoColor=white" alt="React Query"/>
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e" alt="Cypress"/>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook"/>
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components"/>
     
 </td>
@@ -151,7 +150,7 @@ The backend technologies that I am passionate about  :
     <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt=""/>
     <img src="https://img.shields.io/badge/MQTT-660066.svg?style=flat&logo=MQTT&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat&logo=Apollo%20GraphQL&logoColor=white" alt=""/>
-    <img src="https://img.shields.io/badge/traefikproxy-%24A1C1.svg?style=flat&logo=traefikproxy&color=24A1C1&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1.svg?style=flat&logo=Traefik-Proxy&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt=""/>
     
 </td>
