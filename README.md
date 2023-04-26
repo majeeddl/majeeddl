@@ -12,7 +12,6 @@ Majeed Dourandeesh. I am a senior software engineer. I started my developing wit
 - 🌱 I’m currently learning ...
 
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
     
@@ -99,9 +98,10 @@ The languages and framework for front-end developing:
    
 </td>
 <td>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt=""/>
 </td>
 </tr>
 </table>
@@ -180,8 +180,11 @@ The tools for programming :
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=WakaTime&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+
 
 IDE :
 
