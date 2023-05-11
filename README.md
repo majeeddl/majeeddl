@@ -21,6 +21,7 @@ Majeed Dourandeesh. I am a senior software engineer. I started my developing wit
 -  📫 How to reach me: 
 
     [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=flat&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/majeed-dourandeesh/)
+    [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://majeed-dl.medium.com/)
     [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01842d90ab3e24c5aa?viewMode=1)
     [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=flat&logo=gmail&logoColor=white&color=ea4335)](mailto:majeed.dl@gmail.com) 
 <!--
