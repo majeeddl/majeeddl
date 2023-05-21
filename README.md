@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Majeed Dourandeesh. I am a senior software engineer. I started my developing with frontend and then I got interested in backend environment, especially NodeJS  and NoSQL databases. I have developed enterprise web applications and now I'm deeply focusing on learning new frontend and backend technologies.
+My name is Majeed Dourandeesh, and I am an experienced senior software engineer. Throughout my career, I have gained expertise in both frontend and backend development. While initially starting with frontend development, I quickly developed a strong interest in the backend environment, particularly in technologies such as NodeJS and NoSQL databases.
+
+Over the years, I have successfully developed enterprise web applications, leveraging my skills in frontend and backend development. However, my passion for learning and staying up-to-date with the latest technologies remains unwavering. I am currently deeply focused on expanding my knowledge in both frontend and backend technologies, constantly seeking new opportunities to enhance my skills.
+
+With a solid foundation in frontend development and a deep understanding of backend technologies like NodeJS and NoSQL databases, I am well-equipped to tackle diverse challenges in the software development field. I am excited to continue my journey of growth and exploration, embracing new technologies and approaches to deliver exceptional results for future projects.
 
 
 - 🔭 I’m currently working on ...
