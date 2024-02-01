@@ -155,6 +155,7 @@ The backend technologies that I am passionate about  :
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" alt=""/>
     <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt=""/>
     <img src="https://img.shields.io/badge/MQTT-660066.svg?style=flat&logo=MQTT&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=whit" alt=""/>
     <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat&logo=Apollo%20GraphQL&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1.svg?style=flat&logo=Traefik-Proxy&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt=""/>
@@ -219,8 +220,9 @@ Other Software :
 
 Operating systems :
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 
