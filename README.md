@@ -9,9 +9,9 @@ With a solid foundation in frontend development and a deep understanding of back
 
 - 🔭 I’m currently working on ...
     
-        DDD and clean architecture in DotNET core and working on Golange
-        
-        Enterprise React Application for a monitoring system
+        React Application related to BPMS software
+
+        NestJS clean architecture application as a BPMS server
     
 - 🌱 I’m currently learning ...
 
