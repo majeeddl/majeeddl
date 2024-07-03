@@ -9,16 +9,15 @@ With a solid foundation in frontend development and a deep understanding of back
 
 - 🔭 I’m currently working on ...
     
-        React Application related to BPMS software
-
-        NestJS clean architecture application as a BPMS server
+        React Applications
+        NestJS Applications
+        Golang Applcations
     
 - 🌱 I’m currently learning ...
 
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-    ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
-    
+     <!--![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white)-->
     
     
   
