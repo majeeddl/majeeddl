@@ -9,14 +9,15 @@ With a solid foundation in frontend development and a deep understanding of back
 
 - 🔭 I’m currently working on ...
     
-        React Applications
-        NestJS Applications
-        Golang Applcations
+        Next Applications
+        IOS Applications
+        Shopify Applcations
     
 - 🌱 I’m currently learning ...
 
-    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+    ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
+  
      <!--![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white)-->
     
     
@@ -93,6 +94,8 @@ The languages and framework for front-end developing:
     <img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82" alt=""/>
 </td>
 <td>
+    <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Mantine-ffffff.svg?style=flat&logo=Mantine&logoColor=339af0" alt=""/>
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=flat&logo=semanticuireact&logoColor=white" alt=""/>
@@ -120,6 +123,9 @@ The backend technologies that I am passionate about  :
 <th align="center" width="18%" height="10px" style="font-size:9px">
         Node JS
 </th>
+<th align="center" width="18%" height="10px" style="font-size:9px">
+        Golang
+</th>
 <th align="center" width="12%" height="10px" style="font-size:9px">
         C#
 </th>
@@ -131,11 +137,14 @@ The backend technologies that I am passionate about  :
 </th>
 </tr>
 <tr>
-<td>
+<td> 
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" alt=""/>
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" alt=""/>
+</td>
+<td>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt=""/>
 </td>
 <td>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt=""/>
@@ -172,6 +181,8 @@ The databases :
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white)
 
 
 The tools for programming :
@@ -241,6 +252,7 @@ Thanks from :
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat&logo=udacity&logoColor=15B8E6)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat&logo=Duolingo&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=majeeddl)
 
