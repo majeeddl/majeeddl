@@ -11,7 +11,8 @@ With a solid foundation in frontend development and a deep understanding of back
     
         Next Applications
         IOS Applications
-        Shopify Applcations
+        Shopify Applications
+        Vibe Coding
     
 - 🌱 I’m currently learning ...
 
